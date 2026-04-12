@@ -3,7 +3,7 @@ Reproduce Emotion Vector Paper
 
 TL;DR: The repository is to reproduce the [emotion vector paper](https://transformer-circuits.pub/2026/emotions/index.html) by Anthropic with Llama 3.1 8B Instruct. The reproduction is not just repeating, but also understanding the generalization of the method.
 
-[Part 1 Report](reports/part1_claude-code.pdf)
+Part 1 Report: [PDF](https://jyhong.gitlab.io/post/emotion-vector-part1/report/part1_report.pdf), [blog](https://jyhong.gitlab.io/post/emotion-vector-part1/)
 
 ## Motivation
 
